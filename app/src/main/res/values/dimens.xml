@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="thumbnail_size">150dp</dimen>
+    <dimen name="margin_default">8dp</dimen>
+    <dimen name="progressbar_size">56dp</dimen>
+    <dimen name="detail_image_height">200dp</dimen>
+    <dimen name="title_text_size">20sp</dimen>
+    <dimen name="toolbar_height">54dp</dimen>
+</resources>

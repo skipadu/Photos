@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Photos</string>
+
+    <string name="cd_full_image">Full Image</string>
+    <string name="cd_back_button">Back-button</string>
+    <string name="cd_thumbnail">Thumbnail</string>
+    <string name="toolbar_title_photos">PHOTOS</string>
+    <string name="toolbar_title_photodetails">PHOTO DETAILS</string>
+    <string name="toast_photos_refreshed">Photos refreshed</string>
+    <string name="toast_failed_api_call">Failed to make API call</string>
+</resources>
